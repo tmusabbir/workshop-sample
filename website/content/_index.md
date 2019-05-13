@@ -4,5 +4,5 @@ chapter: true
 weight: 1
 ---
 
-# Welcome Builders!
+# Welcome to EMR Workshop!
 You are about to Build!!!!!
